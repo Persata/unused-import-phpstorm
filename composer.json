@@ -1,0 +1,11 @@
+{
+    "name": "persata/unused-import-phpstorm",
+    "require": {
+        "myclabs/deep-copy": "^1.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
